@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Global Solutions JournaL Entry Report",
+    'name': "JournaL Entry Report",
 
-    'summary': "Global Solutions JournaL Entry Report",
+    'summary': "JournaL Entry Report",
 
-    'description': "Global Solutions JournaL Entry Report",
+    'description': "JournaL Entry Report",
 
-    'author': "Global Solutions",
+    'author': "MZN Business Solutions",
     'website': "https://globalsolutions.dev",
 
     # Categories can be used to filter modules in modules listing
