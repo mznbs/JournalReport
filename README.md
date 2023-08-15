@@ -1,0 +1,2 @@
+# mznapps
+Odoo Apps Repo
